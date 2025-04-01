@@ -1,1 +1,1 @@
-# icecreamiventory
+# icecreaminventory
