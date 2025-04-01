@@ -22,16 +22,7 @@ The **Ice Cream Shop Inventory and Billing Management System** is a web-based ap
 - **Authentication:** JWT  
 - **Styling:** Bootstrap / Tailwind CSS  
 
-## 📂 Project Structure  
-```
-/ice-cream-inventory
-│── backend/               # Server-side logic  
-│── frontend/              # Client-side application  
-│── database/              # SQL scripts for database setup  
-│── docs/                  # Documentation and API references  
-│── README.md              # Project overview  
-│── .gitignore             # Ignored files for version control  
-```
+
 
 ## 🔧 Setup & Installation  
 
